@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="byte-buddy-1.12.6">
+    <archive path="/home/laurent/Downloads/exam-22-01/libs/byte-buddy-1.12.6.jar" />
+  </library>
+  <library name="junit-jupiter-engine-5.8.2">
+    <archive path="/home/laurent/Downloads/exam-22-01/libs/junit-jupiter-engine-5.8.2.jar" />
+  </library>
+  <library name="byte-buddy-agent-1.12.6">
+    <archive path="/home/laurent/Downloads/exam-22-01/libs/byte-buddy-agent-1.12.6.jar" />
+  </library>
+  <library name="junit-platform-engine-1.8.2">
+    <archive path="/home/laurent/Downloads/exam-22-01/libs/junit-platform-engine-1.8.2.jar" />
+  </library>
+  <library name="junit-jupiter-api-5.8.2">
+    <archive path="/home/laurent/Downloads/exam-22-01/libs/junit-jupiter-api-5.8.2.jar" />
+  </library>
+  <library name="mockito-core-4.2.0">
+    <archive path="/home/laurent/Downloads/exam-22-01/libs/mockito-core-4.2.0.jar" />
+  </library>
+  <library name="junit-platform-commons-1.8.2">
+    <archive path="/home/laurent/Downloads/exam-22-01/libs/junit-platform-commons-1.8.2.jar" />
+  </library>
+  <library name="objenesis-3.2">
+    <archive path="/home/laurent/Downloads/exam-22-01/libs/objenesis-3.2.jar" />
+  </library>
+</eclipse-userlibraries>
+

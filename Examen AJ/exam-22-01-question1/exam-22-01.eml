@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/exam-22-01"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+	</contentEntry>
+	<levels>
+		<level name="junit-jupiter-engine-5.8.2" value="project"/>
+		<level name="junit-jupiter-api-5.8.2" value="project"/>
+		<level name="junit-platform-engine-1.8.2" value="project"/>
+		<level name="junit-platform-commons-1.8.2" value="project"/>
+		<level name="mockito-core-4.2.0" value="project"/>
+		<level name="byte-buddy-1.12.6" value="project"/>
+		<level name="byte-buddy-agent-1.12.6" value="project"/>
+		<level name="objenesis-3.2" value="project"/>
+	</levels>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/junit-jupiter-engine-5.8.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/junit-jupiter-api-5.8.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/junit-platform-engine-1.8.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/junit-platform-commons-1.8.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mockito-core-4.2.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/byte-buddy-1.12.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/byte-buddy-agent-1.12.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/objenesis-3.2"/>
+	<classpathentry kind="output" path="out/production/exam-22-01"/>
+</classpath>

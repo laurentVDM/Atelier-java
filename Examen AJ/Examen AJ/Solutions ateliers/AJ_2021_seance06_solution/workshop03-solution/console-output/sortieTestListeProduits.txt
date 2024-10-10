@@ -1,0 +1,88 @@
+Nom : Jeans Rose
+Marque : One Green Elephant
+Rayon : Y8
+Historique des prix :
+3 f�vrier 2019 :
+Promo : DESTOCKAGE - 50.0
+39.9 euros � partir de 1 unit�s
+34.9 euros � partir de 3 unit�s
+29.9 euros � partir de 5 unit�s
+20.0 euros � partir de 9 unit�s
+
+2 f�vrier 2019 :
+Promo : DESTOCKAGE - 50.0
+39.9 euros � partir de 1 unit�s
+34.9 euros � partir de 3 unit�s
+29.9 euros � partir de 5 unit�s
+
+15 janvier 2019 :
+Promo : SOLDE - 50.0
+39.9 euros � partir de 1 unit�s
+34.9 euros � partir de 3 unit�s
+29.9 euros � partir de 5 unit�s
+
+3 janvier 2019 :
+Promo : SOLDE - 30.0
+55.9 euros � partir de 1 unit�s
+48.9 euros � partir de 3 unit�s
+41.9 euros � partir de 5 unit�s
+
+3 d�cembre 2018 :
+79.9 euros � partir de 1 unit�s
+69.9 euros � partir de 3 unit�s
+59.9 euros � partir de 5 unit�s
+
+----------------------------------------------------------------------
+Nom : Jeans Vert
+Marque : One Green Elephant
+Rayon : F4
+Historique des prix :
+15 janvier 2019 :
+Promo : SOLDE - 50.0
+39.9 euros � partir de 1 unit�s
+34.9 euros � partir de 3 unit�s
+29.9 euros � partir de 5 unit�s
+
+3 janvier 2019 :
+Promo : SOLDE - 30.0
+55.9 euros � partir de 1 unit�s
+48.9 euros � partir de 3 unit�s
+41.9 euros � partir de 5 unit�s
+
+3 d�cembre 2018 :
+79.9 euros � partir de 1 unit�s
+69.9 euros � partir de 3 unit�s
+59.9 euros � partir de 5 unit�s
+
+----------------------------------------------------------------------
+
+Le prix du jeans rose le 3 janvier 2019 :
+Promo : SOLDE - 30.0
+55.9 euros � partir de 1 unit�s
+48.9 euros � partir de 3 unit�s
+41.9 euros � partir de 5 unit�s
+
+Le prix du jeans vert le 2 d�cembre 2018 :
+
+exceptions.PrixNonDisponibleException
+	at domaine.Produit.getPrix(Produit.java:69)
+	at usecase.ListeProduits.trouverPrix(ListeProduits.java:135)
+	at tests.TestListeProduits.main(TestListeProduits.java:61)
+exceptions.DateDejaPresenteException
+	at domaine.Produit.ajouterPrix(Produit.java:53)
+	at usecase.ListeProduits.ajouterPrix(ListeProduits.java:121)
+	at tests.TestListeProduits.main(TestListeProduits.java:81)
+exceptions.ProduitNonPresentException: le produit ne se trouve pas dans la liste des produits.
+	at usecase.ListeProduits.trouverProduit(ListeProduits.java:149)
+	at usecase.ListeProduits.ajouterPrix(ListeProduits.java:120)
+	at tests.TestListeProduits.main(TestListeProduits.java:95)
+exceptions.ProduitNonPresentException: le produit ne se trouve pas dans la liste des produits.
+	at usecase.ListeProduits.trouverProduit(ListeProduits.java:149)
+	at usecase.ListeProduits.trouverPrix(ListeProduits.java:133)
+	at tests.TestListeProduits.main(TestListeProduits.java:106)
+java.lang.UnsupportedOperationException
+	at java.base/java.util.Collections$UnmodifiableCollection$1.remove(Collections.java:1051)
+	at tests.TestListeProduits.main(TestListeProduits.java:122)
+java.lang.UnsupportedOperationException
+	at java.base/java.util.Collections$UnmodifiableCollection$1.remove(Collections.java:1051)
+	at tests.TestListeProduits.main(TestListeProduits.java:122)

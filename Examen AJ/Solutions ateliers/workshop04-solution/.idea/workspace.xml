@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6237091-ed02-4ff0-9b23-57c575182970" name="Changes" comment="squelette pour exercices 3 et 4 ajouté" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1yqogQgNVWXrMaDiakuUmskM08D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/vande/Documents/ipl/2022-2023/2BIN/AJ/Examen AJ/Solutions ateliers/AJ_atelier_05_solution",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lapie\OneDrive\Bureau\VINCI\Ateliers Java\java-workshops\workshop04\src\parallel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestTweets">
+    <configuration name="EmployeeManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.EmployeeManagement" />
+      <module name="workshop04-solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parallel.ParallelStreams" />
+      <module name="workshop04-solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStreamDeNombres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="infinis.TestStreamDeNombres" />
+      <module name="workshop04-solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="infinis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTweets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tweets.TestTweets" />
+      <module name="workshop04-solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tweets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetDistribution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tweets.TweetDistribution" />
+      <module name="workshop04-solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tweets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestTweets" />
+        <item itemvalue="Application.ParallelStreams" />
+        <item itemvalue="Application.TweetDistribution" />
+        <item itemvalue="Application.EmployeeManagement" />
+        <item itemvalue="Application.TestStreamDeNombres" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6237091-ed02-4ff0-9b23-57c575182970" name="Changes" comment="" />
+      <created>1632988591161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632988591161</updated>
+      <workItem from="1632988593621" duration="13934000" />
+      <workItem from="1633036994269" duration="31000" />
+      <workItem from="1633099074532" duration="4667000" />
+      <workItem from="1633103809433" duration="2055000" />
+      <workItem from="1633168781245" duration="7883000" />
+      <workItem from="1633332024742" duration="12000" />
+      <workItem from="1634028993672" duration="9973000" />
+      <workItem from="1692018561912" duration="38000" />
+    </task>
+    <task id="LOCAL-00001" summary="squelette pour exercices 3 et 4 ajouté">
+      <created>1633103612693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633103612693</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="squelette pour exercices 3 et 4 ajouté" />
+    <option name="LAST_COMMIT_MESSAGE" value="squelette pour exercices 3 et 4 ajouté" />
+  </component>
+</project>
